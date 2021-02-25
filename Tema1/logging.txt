@@ -68,3 +68,153 @@
 02/25/2021, 20:14:19 :Sent compression request
 02/25/2021, 20:14:19:Response from compression request was succesful 
 02/25/2021, 20:15:23 :Sent flickr.FlickAPI request
+02/25/2021, 21:00:41 :Sent flickr.FlickAPI request
+02/25/2021, 21:14:23 :Sent flickr.FlickAPI request
+02/25/2021, 21:14:23 :Sent flickr.photos.search request
+02/25/2021, 21:14:23 :Sent RandomOrgClient request
+02/25/2021, 21:14:24 :Sent random_gen.generate_integers request
+02/25/2021, 21:14:24:Response from random_gen.generate_integers request was number 1
+02/25/2021, 21:14:24 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:14:25 :Sent compression request
+02/25/2021, 21:14:25:Response from compression request was succesful 
+02/25/2021, 21:15:11 :Sent flickr.FlickAPI request
+02/25/2021, 21:15:12 :Sent flickr.FlickAPI request
+02/25/2021, 21:15:17 :Sent flickr.FlickAPI request
+02/25/2021, 21:15:48 :Sent flickr.FlickAPI request
+02/25/2021, 21:16:11 :Sent flickr.FlickAPI request
+02/25/2021, 21:16:12 :Sent flickr.FlickAPI request
+02/25/2021, 21:16:18 :Sent flickr.FlickAPI request
+02/25/2021, 21:16:36 :Sent flickr.FlickAPI request
+02/25/2021, 21:18:30 :Sent flickr.FlickAPI request
+02/25/2021, 21:18:30 :Sent flickr.photos.search request
+02/25/2021, 21:18:30 :Sent RandomOrgClient request
+02/25/2021, 21:18:31 :Sent random_gen.generate_integers request
+02/25/2021, 21:18:31:Response from random_gen.generate_integers request was number 2
+02/25/2021, 21:18:31 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:18:32 :Sent compression request
+02/25/2021, 21:18:32:Response from compression request was succesful 
+02/25/2021, 21:18:52 :Sent flickr.FlickAPI request
+02/25/2021, 21:19:02 :Sent flickr.FlickAPI request
+02/25/2021, 21:19:02 :Sent flickr.photos.search request
+02/25/2021, 21:19:02 :Sent RandomOrgClient request
+02/25/2021, 21:19:05 :Sent random_gen.generate_integers request
+02/25/2021, 21:19:05:Response from random_gen.generate_integers request was number 3
+02/25/2021, 21:19:05 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:19:07 :Sent compression request
+02/25/2021, 21:19:08:Response from compression request was succesful 
+02/25/2021, 21:19:09 :Sent flickr.FlickAPI request
+02/25/2021, 21:19:09 :Sent flickr.photos.search request
+02/25/2021, 21:19:09 :Sent RandomOrgClient request
+02/25/2021, 21:19:12 :Sent random_gen.generate_integers request
+02/25/2021, 21:19:12:Response from random_gen.generate_integers request was number 4
+02/25/2021, 21:19:12 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:19:13 :Sent compression request
+02/25/2021, 21:19:14:Response from compression request was succesful 
+02/25/2021, 21:19:19 :Sent flickr.FlickAPI request
+02/25/2021, 21:19:19 :Sent flickr.photos.search request
+02/25/2021, 21:19:19 :Sent RandomOrgClient request
+02/25/2021, 21:19:22 :Sent random_gen.generate_integers request
+02/25/2021, 21:19:22:Response from random_gen.generate_integers request was number 8
+02/25/2021, 21:19:22 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:19:24 :Sent compression request
+02/25/2021, 21:19:25:Response from compression request was succesful 
+02/25/2021, 21:21:02 :Sent flickr.FlickAPI request
+02/25/2021, 21:21:03 :Sent flickr.photos.search request
+02/25/2021, 21:21:03 :Sent RandomOrgClient request
+02/25/2021, 21:21:04 :Sent random_gen.generate_integers request
+02/25/2021, 21:21:04:Response from random_gen.generate_integers request was number 4
+02/25/2021, 21:21:04 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:21:05 :Sent compression request
+02/25/2021, 21:21:06:Response from compression request was succesful 
+02/25/2021, 21:21:12 :Sent flickr.FlickAPI request
+02/25/2021, 21:21:12 :Sent flickr.photos.search request
+02/25/2021, 21:21:12 :Sent RandomOrgClient request
+02/25/2021, 21:21:15 :Sent random_gen.generate_integers request
+02/25/2021, 21:21:15:Response from random_gen.generate_integers request was number 6
+02/25/2021, 21:21:15 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:21:17 :Sent compression request
+02/25/2021, 21:21:17:Response from compression request was succesful 
+02/25/2021, 21:21:57 :Sent flickr.FlickAPI request
+02/25/2021, 21:22:01 :Sent flickr.photos.search request
+02/25/2021, 21:22:01 :Sent RandomOrgClient request
+02/25/2021, 21:22:08 :Sent random_gen.generate_integers request
+02/25/2021, 21:22:08:Response from random_gen.generate_integers request was number 2
+02/25/2021, 21:22:08 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:22:09 :Sent compression request
+02/25/2021, 21:22:09:Response from compression request was succesful 
+02/25/2021, 21:22:10 :Sent flickr.FlickAPI request
+02/25/2021, 21:22:11 :Sent flickr.photos.search request
+02/25/2021, 21:22:11 :Sent RandomOrgClient request
+02/25/2021, 21:22:13 :Sent random_gen.generate_integers request
+02/25/2021, 21:22:13:Response from random_gen.generate_integers request was number 6
+02/25/2021, 21:22:13 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:22:14 :Sent compression request
+02/25/2021, 21:22:15:Response from compression request was succesful 
+02/25/2021, 21:23:18 :Sent flickr.FlickAPI request
+02/25/2021, 21:23:18 :Sent flickr.photos.search request
+02/25/2021, 21:23:18 :Sent RandomOrgClient request
+02/25/2021, 21:23:19 :Sent random_gen.generate_integers request
+02/25/2021, 21:23:19:Response from random_gen.generate_integers request was number 1
+02/25/2021, 21:23:19 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:23:19 :Sent compression request
+02/25/2021, 21:23:20:Response from compression request was succesful 
+02/25/2021, 21:26:39 :Sent flickr.FlickAPI request
+02/25/2021, 21:26:42 :Sent flickr.photos.search request
+02/25/2021, 21:26:42 :Sent RandomOrgClient request
+02/25/2021, 21:26:44 :Sent random_gen.generate_integers request
+02/25/2021, 21:26:44:Response from random_gen.generate_integers request was number 4
+02/25/2021, 21:26:44 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:26:50 :Sent compression request
+02/25/2021, 21:26:51:Response from compression request was succesful 
+02/25/2021, 21:26:51 :Sent flickr.FlickAPI request
+02/25/2021, 21:27:01 :Sent flickr.FlickAPI request
+02/25/2021, 21:27:37 :Sent flickr.FlickAPI request
+02/25/2021, 21:28:17 :Sent flickr.FlickAPI request
+02/25/2021, 21:28:18 :Sent flickr.photos.search request
+02/25/2021, 21:28:18 :Sent RandomOrgClient request
+02/25/2021, 21:28:18 :Sent random_gen.generate_integers request
+02/25/2021, 21:28:18:Response from random_gen.generate_integers request was number 7
+02/25/2021, 21:28:18 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:28:21 :Sent compression request
+02/25/2021, 21:28:22:Response from compression request was succesful 
+02/25/2021, 21:29:12 :Sent flickr.FlickAPI request
+02/25/2021, 21:29:12 :Sent flickr.photos.search request
+02/25/2021, 21:29:12 :Sent RandomOrgClient request
+02/25/2021, 21:29:15 :Sent random_gen.generate_integers request
+02/25/2021, 21:29:15:Response from random_gen.generate_integers request was number 6
+02/25/2021, 21:29:15 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 21:29:16 :Sent compression request
+02/25/2021, 21:29:16:Response from compression request was succesful 
+02/25/2021, 21:29:51 :Sent flickr.FlickAPI request
+02/25/2021, 21:29:52 :Sent flickr.photos.search request
+02/25/2021, 21:29:52 :Sent RandomOrgClient request
+02/25/2021, 21:29:55 :Sent random_gen.generate_integers request
+02/25/2021, 21:29:55:Response from random_gen.generate_integers request was number 7
+02/25/2021, 21:29:55 :Response from flickr.photos.search request contains 1723 photos
+02/25/2021, 21:29:56 :Sent compression request
+02/25/2021, 21:29:57:Response from compression request was succesful 
+02/25/2021, 21:29:58 :Sent flickr.FlickAPI request
+02/25/2021, 21:30:07 :Sent flickr.FlickAPI request
+02/25/2021, 21:30:07 :Sent flickr.photos.search request
+02/25/2021, 21:30:07 :Sent RandomOrgClient request
+02/25/2021, 21:30:10 :Sent random_gen.generate_integers request
+02/25/2021, 21:30:10:Response from random_gen.generate_integers request was number 6
+02/25/2021, 21:30:10 :Response from flickr.photos.search request contains 1723 photos
+02/25/2021, 21:30:11 :Sent compression request
+02/25/2021, 21:30:11:Response from compression request was succesful 
+02/25/2021, 21:33:08 :Sent flickr.FlickAPI request
+02/25/2021, 21:33:09 :Sent flickr.photos.search request
+02/25/2021, 21:33:09 :Sent RandomOrgClient request
+02/25/2021, 21:33:10 :Sent random_gen.generate_integers request
+02/25/2021, 21:33:10:Response from random_gen.generate_integers request was number 1
+02/25/2021, 21:33:10 :Response from flickr.photos.search request contains 1723 photos
+02/25/2021, 21:33:11 :Sent compression request
+02/25/2021, 21:33:12:Response from compression request was succesful 
+02/25/2021, 21:33:19 :Sent flickr.FlickAPI request
+02/25/2021, 21:33:19 :Sent flickr.photos.search request
+02/25/2021, 21:33:19 :Sent RandomOrgClient request
+02/25/2021, 21:33:21 :Sent random_gen.generate_integers request
+02/25/2021, 21:33:21:Response from random_gen.generate_integers request was number 2
+02/25/2021, 21:33:21 :Response from flickr.photos.search request contains 1723 photos
+02/25/2021, 21:33:22 :Sent compression request
+02/25/2021, 21:33:22:Response from compression request was succesful 

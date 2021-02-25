@@ -12,6 +12,7 @@ from rdoclient import RandomOrgClient
 import tinify
 import datetime
 import urllib.request
+import sys
 import urllib.response
 import os.path
 import io
@@ -78,7 +79,7 @@ def monitor_and_abuse():
             exit()
 
 
-def handle_client(conn, request):
+def handle_client(conn, request, ishhtp):
     filename = "config.txt"
     with open(filename) as f:
         content = f.read().splitlines()
@@ -137,9 +138,24 @@ def handle_client(conn, request):
     log(to_log)
     imageFileObj = open(unique, "rb")
     imageBinaryBytes = imageFileObj.read()
-    conn.sendall(imageBinaryBytes)
+    if not ishhtp:
+        conn.sendall(imageBinaryBytes)
+    else:
+        conn.send('HTTP/1.1 200 OK\r\n'.encode())
+        conn.send("Content-Type: image/jpeg\r\n".encode())
+        conn.send("Accept-Ranges: bytes\r\n\r\n".encode())
+        conn.send(imageBinaryBytes)
     conn.close()
     exit(1)
+
+
+def getmetrics(conn):
+    with open("logging.txt") as f:
+        content = f.read()
+        str = "HTTP/1.1 200 OK\n" + "Content-Type: text/html\n" + "\n" + "<html><body>" + content + "</body></html>\n"
+        str = bytes(str, "utf-8")
+        conn.sendall(str)
+        conn.close()
 
 
 def main_funcion():
@@ -152,8 +168,10 @@ def main_funcion():
             print('Connected by', addr)
             data = conn.recv(1024)
             request = data.decode("utf-8")
+            ishhtp = False
+            a = request
             if request[:3] == "GET":
-                request = data.decode("utf-8")
+                ishhtp = True
                 request = request[5:]
                 a = ""
                 for j in request:
@@ -161,7 +179,10 @@ def main_funcion():
                         a += j
                     else:
                         break
-            start_new_thread(handle_client, (conn, request,))
+                if a == "metrics":
+                    start_new_thread(getmetrics, (conn,))
+                    continue
+            start_new_thread(handle_client, (conn, a, ishhtp,))
 
 
 if __name__ == '__main__':

@@ -39,6 +39,7 @@ def startClient(entryField, root_local):
         rez_label = tk.Label(root_local, text=display_message)
         img = ImageTk.PhotoImage(Image.open(unique))
         panel = tk.Label(root_local, image=img)
+        panel.image = img
         panel.pack()
         rez_label.pack()
         s.close()
