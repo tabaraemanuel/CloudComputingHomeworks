@@ -1,0 +1,70 @@
+02/24/2021, 18:57:08 :Sent flickr.FlickAPI request
+02/24/2021, 18:57:08 :Sent flickr.photos.search request
+02/24/2021, 18:57:08 :Sent RandomOrgClient request
+02/24/2021, 18:57:08 :Sent random_gen.generate_integers request
+02/24/2021, 18:58:04 :Sent flickr.FlickAPI request
+02/24/2021, 18:58:05 :Sent flickr.photos.search request
+02/24/2021, 18:58:05 :Sent RandomOrgClient request
+02/24/2021, 18:58:05 :Sent random_gen.generate_integers request
+02/24/2021, 18:58:06 :Sent compression request
+02/24/2021, 19:15:57 :Sent flickr.FlickAPI request
+02/24/2021, 19:15:58 :Sent flickr.photos.search request
+02/24/2021, 19:15:58 :Sent RandomOrgClient request
+02/24/2021, 19:15:58 :Sent random_gen.generate_integers request
+02/24/2021, 19:16:01 :Sent compression request
+02/25/2021, 19:09:06 :Sent flickr.FlickAPI request
+02/25/2021, 19:19:08 :Sent flickr.FlickAPI request
+02/25/2021, 19:19:09 :Sent flickr.photos.search request
+02/25/2021, 19:19:09 :Sent RandomOrgClient request
+02/25/2021, 19:19:09 :Sent random_gen.generate_integers request
+02/25/2021, 19:19:09:Response from random_gen.generate_integers request was number 2
+02/25/2021, 19:21:33 :Sent flickr.FlickAPI request
+02/25/2021, 19:21:34 :Sent flickr.photos.search request
+02/25/2021, 19:21:34 :Sent RandomOrgClient request
+02/25/2021, 19:21:34 :Sent random_gen.generate_integers request
+02/25/2021, 19:21:34:Response from random_gen.generate_integers request was number 5
+02/25/2021, 19:21:34 :Response from flickr.photos.search request contains 2549 photos
+02/25/2021, 19:21:35 :Sent compression request
+02/25/2021, 19:21:36:Response from compression request was succesful 
+02/25/2021, 19:31:42 :Sent flickr.FlickAPI request
+02/25/2021, 19:31:43 :Sent flickr.photos.search request
+02/25/2021, 19:31:43 :Sent RandomOrgClient request
+02/25/2021, 19:31:44 :Sent random_gen.generate_integers request
+02/25/2021, 19:31:44:Response from random_gen.generate_integers request was number 7
+02/25/2021, 19:31:44 :Response from flickr.photos.search request contains 968 photos
+02/25/2021, 19:31:48 :Sent compression request
+02/25/2021, 19:31:50:Response from compression request was succesful 
+02/25/2021, 19:33:41 :Sent flickr.FlickAPI request
+02/25/2021, 19:33:41 :Sent flickr.photos.search request
+02/25/2021, 19:33:41 :Sent RandomOrgClient request
+02/25/2021, 19:33:44 :Sent random_gen.generate_integers request
+02/25/2021, 19:33:44:Response from random_gen.generate_integers request was number 2
+02/25/2021, 19:33:44 :Response from flickr.photos.search request contains 968 photos
+02/25/2021, 19:33:45 :Sent compression request
+02/25/2021, 19:33:45:Response from compression request was succesful 
+02/25/2021, 19:36:38 :Sent flickr.FlickAPI request
+02/25/2021, 19:36:38 :Sent flickr.photos.search request
+02/25/2021, 19:36:38 :Sent RandomOrgClient request
+02/25/2021, 19:36:39 :Sent random_gen.generate_integers request
+02/25/2021, 19:36:39:Response from random_gen.generate_integers request was number 6
+02/25/2021, 19:36:39 :Response from flickr.photos.search request contains 968 photos
+02/25/2021, 19:36:41 :Sent compression request
+02/25/2021, 19:36:41:Response from compression request was succesful 
+02/25/2021, 19:38:39 :Sent flickr.FlickAPI request
+02/25/2021, 19:38:40 :Sent flickr.photos.search request
+02/25/2021, 19:38:40 :Sent RandomOrgClient request
+02/25/2021, 19:38:40 :Sent random_gen.generate_integers request
+02/25/2021, 19:38:40:Response from random_gen.generate_integers request was number 5
+02/25/2021, 19:38:40 :Response from flickr.photos.search request contains 968 photos
+02/25/2021, 19:38:42 :Sent compression request
+02/25/2021, 19:38:42:Response from compression request was succesful 
+02/25/2021, 19:44:31 :Sent flickr.FlickAPI request
+02/25/2021, 20:14:17 :Sent flickr.FlickAPI request
+02/25/2021, 20:14:17 :Sent flickr.photos.search request
+02/25/2021, 20:14:17 :Sent RandomOrgClient request
+02/25/2021, 20:14:18 :Sent random_gen.generate_integers request
+02/25/2021, 20:14:18:Response from random_gen.generate_integers request was number 5
+02/25/2021, 20:14:18 :Response from flickr.photos.search request contains 1983 photos
+02/25/2021, 20:14:19 :Sent compression request
+02/25/2021, 20:14:19:Response from compression request was succesful 
+02/25/2021, 20:15:23 :Sent flickr.FlickAPI request
